@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # This Programm Write by Mr.nope
-# Brecon v1.0
+# Brecon v1.3.0
 import os
 import time
 import sys
