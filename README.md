@@ -1,14 +1,12 @@
 # Black-Recon
 
 This Programm Write by [Mr.nope](https://github.com/mrprogrammer2938)
-<br><br>
-<a href="https://github.com/mrprogrammer2938/Black-Recon" >
-  <img src="https://github.com/mrprogrammer2938/Black-Recon/blob/master/Scr/Black-Recon-Logo.png"> </a>
 <br>
 
 ## Scr
-[![image](https://user-images.githubusercontent.com/78996423/127199983-6d96434e-5296-423c-95ff-46cae7e4c0d7.png)](https://github.com/mrprogrammer2938/Black-Recon)
-<br>
+<a href="https://github.com/mrprogrammer2938/Black-Recon" >
+  <img src="https://github.com/mrprogrammer2938/Black-Recon/blob/master/Scr/Black-Recon-Logo.png"> </a>
+<br><br>
 
 ```
 git clone https://github.com/mrprogrammer2938/Black-Recon
