@@ -4,7 +4,8 @@ This Programm Write by [Mr.nope](https://github.com/mrprogrammer2938)
 <br>
 
 ## Scr
-[![image](https://user-images.githubusercontent.com/78996423/127291530-3ec4ad65-3146-48fa-aaa1-137f3db870be.png)](https://github.com/mrprogrammer2938/Black-Recon)
+<a href="https://github.com/mrprogrammer2938/Black-Recon">
+  <img src="https://github.com/mrprogrammer2938/Black-Recon/edit/master/Scr/Black-Tool-Logo.png"> </a>
 <br><br>
 
 **Installing**
