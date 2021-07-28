@@ -5,7 +5,7 @@ This Programm Write by [Mr.nope](https://github.com/mrprogrammer2938)
 
 ## Scr
 <a href="https://github.com/mrprogrammer2938/Black-Recon">
-  <img src="https://github.com/mrprogrammer2938/Black-Recon/edit/master/Scr/Black-Tool-Logo.png"> </a>
+  <img src="https://github.com/mrprogrammer2938/Black-Recon/blob/master/Scr/Black-Recon-Logo.png"> </a>
 <br><br>
 
 **Installing**
