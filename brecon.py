@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # This Programm Write by Mr.nope
-# Brecon v1.3.0
+# Brecon v1.4.0
 import os
 import time
 import sys
@@ -49,8 +49,10 @@ def main():
     web = input(Fore.GREEN + "\nEnter: " + End)
     time.sleep(1)
     for http in search(web):
-        print(Fore.BLUE + line + Fore.YELLOW + http + Fore.BLUE + line + End)
-        try1()
+        print(Fore.YELLOW)
+        print(http)
+    print(End)
+    try1()
 def try1():
     try_again = input("\nDo you want to try again? [y/n] ")
     if try_again == 'y':
