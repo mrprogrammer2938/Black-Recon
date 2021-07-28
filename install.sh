@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # This Programm Write by Mr.nope
-# Black-Recon v1.3.0
+# Black-Recon v1.4.0
 if [[ "$(id -u)" -ne 0 ]]; then
   echo "
 Please, Run This Programm as Root"
